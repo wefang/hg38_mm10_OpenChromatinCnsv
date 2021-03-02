@@ -1,7 +1,7 @@
 track oc_cnsv
 type bigWig
-name "OC Cnsv"
-description "Human-Mouse Open Chromatin Cnsv"
+shortLabel oc_cnsv
+longLabel oc_cnsv
 windowingFunction mean 
 autoScale off
 viewLimits -0.5:0.8
