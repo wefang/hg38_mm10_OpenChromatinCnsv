@@ -11,6 +11,6 @@ bigDataUrl "https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38
 
 track oc_denovo
 type bigBed
-name "de novo cCRE"
-description "Open Chromatin Cnsv de novo cCRE"
+shortLabel oc_denovo
+longLabel oc_denovo
 bigDataUrl "https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38_denovo.bb?raw=true"
