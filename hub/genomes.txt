@@ -1,3 +1,7 @@
 genome hg38
 trackDb hg38/trackDb.txt
-defaultPos chr21:33031597-33041570
+defaultPos chr7:155459332-155465921
+
+genome mm10
+trackDb mm10/trackDb.txt
+defaultPos chr13:83866162-83873410
