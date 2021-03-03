@@ -1,0 +1,5 @@
+hub oc_cnsv
+shortLabel oc_cnsv
+longLabel oc_cnsv
+genomesFile genomes.txt
+email wfang9@jh.edu
