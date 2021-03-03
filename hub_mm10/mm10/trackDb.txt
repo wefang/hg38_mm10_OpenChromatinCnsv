@@ -1,7 +1,7 @@
 track oc_cnsv
 type bigWig
-shortLabel oc_cnsv
-longLabel oc_cnsv
+shortLabel Open Chromatin Cnsv
+longLabel Human Mouse Open Chromatin Cnsv
 visibility full
 windowingFunction mean 
 autoScale off
@@ -12,7 +12,7 @@ bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/mm10_
 
 track oc_denovo
 type bigBed
-shortLabel oc_denovo
-longLabel oc_denovo
+shortLabel de novo cCRE
+longLabel de novo cCRE predicted by Open Chromatin
 visibility dense
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/mm10_denovo.bb?raw=true
