@@ -1,17 +1,16 @@
 track b_cell_adult
 type bigWig
-type bigWig
 shortLabel B cell adult
 longLabel B cell adult
 visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF305QCJ/@@download/ENCFF305QCJ.bigWig
 
 track fibroblast_of_lung_adult
-type bigWig
 type bigWig
 shortLabel fibroblast of lung adult
 longLabel fibroblast of lung adult
@@ -19,11 +18,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF330KHN/@@download/ENCFF330KHN.bigWig
 
 track naive_thymus-derived_cd4-positive,_alpha-beta_t_cell_adult
-type bigWig
 type bigWig
 shortLabel naive thymus-derived CD4-positive, alpha-beta T cell adult
 longLabel naive thymus-derived CD4-positive, alpha-beta T cell adult
@@ -31,11 +30,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF753ETN/@@download/ENCFF753ETN.bigWig
 
 track brain_embryonic
-type bigWig
 type bigWig
 shortLabel brain embryonic
 longLabel brain embryonic
@@ -43,11 +42,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF735MKP/@@download/ENCFF735MKP.bigWig
 
 track cerebellum_adult
-type bigWig
 type bigWig
 shortLabel cerebellum adult
 longLabel cerebellum adult
@@ -55,11 +54,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF833POA/@@download/ENCFF833POA.bigWig
 
 track embryonic_facial_prominence_embryonic
-type bigWig
 type bigWig
 shortLabel embryonic facial prominence embryonic
 longLabel embryonic facial prominence embryonic
@@ -67,11 +66,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF249WKV/@@download/ENCFF249WKV.bigWig
 
 track heart_adult
-type bigWig
 type bigWig
 shortLabel heart adult
 longLabel heart adult
@@ -79,11 +78,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF303XQF/@@download/ENCFF303XQF.bigWig
 
 track heart_embryonic
-type bigWig
 type bigWig
 shortLabel heart embryonic
 longLabel heart embryonic
@@ -91,11 +90,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF854MAD/@@download/ENCFF854MAD.bigWig
 
 track limb_embryonic
-type bigWig
 type bigWig
 shortLabel limb embryonic
 longLabel limb embryonic
@@ -103,11 +102,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF850IPE/@@download/ENCFF850IPE.bigWig
 
 track liver_embryonic
-type bigWig
 type bigWig
 shortLabel liver embryonic
 longLabel liver embryonic
@@ -115,11 +114,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF068ZBX/@@download/ENCFF068ZBX.bigWig
 
 track lung_embryonic
-type bigWig
 type bigWig
 shortLabel lung embryonic
 longLabel lung embryonic
@@ -127,11 +126,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF362UJZ/@@download/ENCFF362UJZ.bigWig
 
 track retina_embryonic
-type bigWig
 type bigWig
 shortLabel retina embryonic
 longLabel retina embryonic
@@ -139,11 +138,11 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF064DIM/@@download/ENCFF064DIM.bigWig
 
 track spleen_adult
-type bigWig
 type bigWig
 shortLabel spleen adult
 longLabel spleen adult
@@ -151,6 +150,7 @@ visibility full
 windowingFunction mean
 autoScale off
 graphType bar
+viewLimits 0:2
 maxHeightPixels 50
 bigDataUrlhttps://www.encodeproject.org/files/ENCFF872GCJ/@@download/ENCFF872GCJ.bigWig
 
