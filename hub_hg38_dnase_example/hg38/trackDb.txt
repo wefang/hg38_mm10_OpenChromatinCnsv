@@ -1,0 +1,22 @@
+track xxxx
+type bigWig
+shortLabel xxx
+longLabel xxx
+visibility full
+windowingFunction mean 
+autoScale off
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://www.encodeproject.org/files/ENCFF305QCJ/@@download/ENCFF305QCJ.bigWig
+
+track xxxy
+type bigWig
+shortLabel xxy
+longLabel xxy
+visibility full
+windowingFunction mean 
+autoScale off
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://www.encodeproject.org/files/ENCFF330KHN/@@download/ENCFF330KHN.bigWig
+

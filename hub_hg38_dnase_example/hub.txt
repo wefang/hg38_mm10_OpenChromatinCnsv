@@ -1,0 +1,5 @@
+hub encode_hg38_dnase
+shortLabel selected ENCODE hg38 DNase
+longLabel selected ENCODE hg38 DNase
+genomesFile genomes.txt
+email wfang9@jh.edu
