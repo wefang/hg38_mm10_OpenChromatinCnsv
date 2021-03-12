@@ -10,6 +10,18 @@ graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38_oc_cnsv.bw?raw=true
 
+track oc_mean_logfc
+type bigWig
+shortLabel Open Chromatin Mouse logFC
+longLabel Mouse Open Chromatin logFC to Human
+visibility full
+windowingFunction mean 
+autoScale off
+viewLimits -0.5:0.8
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38_oc_mouse_logfc.bw?raw=true
+
 track oc_denovo
 type bigBed
 shortLabel de novo cCRE
