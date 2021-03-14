@@ -3,6 +3,7 @@ type bigWig
 shortLabel Open Chromatin Cnsv
 longLabel Human Mouse Open Chromatin Cnsv
 visibility full
+color 191,176,81
 windowingFunction mean 
 autoScale off
 viewLimits -0.5:0.8
@@ -27,5 +28,5 @@ type bigBed
 shortLabel de novo cCRE
 longLabel de novo cCRE predicted by Open Chromatin
 visibility dense
-color 205,11,188
+color 4,101,130
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/mm10_denovo.bb?raw=true
