@@ -3,6 +3,7 @@ type bigWig
 shortLabel B cell adult
 longLabel B cell adult
 visibility full
+color 0,0,255
 windowingFunction mean
 autoScale off
 graphType bar
@@ -15,6 +16,7 @@ type bigWig
 shortLabel fibroblast of lung adult
 longLabel fibroblast of lung adult
 visibility full
+color 255,0,0
 windowingFunction mean
 autoScale off
 graphType bar
