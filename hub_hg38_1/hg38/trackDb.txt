@@ -33,8 +33,8 @@ bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38_
 
 track oc_cnsv_housekeeping
 type bigBed
-shortLabel Open Chromatin Conserved house keeping elements
-longLabel Open Chromatin Conserved house keeping elements
+shortLabel OC Cnsv House Keeping
+longLabel Open Chromatin Conserved House Keeping Elements
 visibility dense
 color 67,85,96
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38_house_keeping.bb?raw=true
