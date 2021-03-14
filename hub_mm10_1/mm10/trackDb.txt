@@ -14,7 +14,7 @@ track oc_mean_logfc
 type bigWig
 shortLabel Open Chromatin Human -logFC
 longLabel Mouse Open Chromatin -logFC to Human
-visibility full
+visibility hide
 windowingFunction mean 
 autoScale off
 viewLimits -5:5
@@ -27,4 +27,5 @@ type bigBed
 shortLabel de novo cCRE
 longLabel de novo cCRE predicted by Open Chromatin
 visibility dense
+color 205,11,188
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/mm10_denovo.bb?raw=true
