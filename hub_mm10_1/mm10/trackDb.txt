@@ -30,3 +30,11 @@ longLabel de novo cCRE predicted by Open Chromatin
 visibility dense
 color 4,101,130
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/mm10_denovo.bb?raw=true
+
+track oc_cnsv_housekeeping
+type bigBed
+shortLabel OC Cnsv House Keeping
+longLabel Open Chromatin Conserved House Keeping Elements
+visibility dense
+color 67,85,96
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/mm10_house_keeping.bb?raw=true
