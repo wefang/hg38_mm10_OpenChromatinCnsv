@@ -17,4 +17,4 @@ shortLabel OC Cnsv House Keeping
 longLabel Open Chromatin Conserved House Keeping Elements
 visibility dense
 color 67,85,96
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38_house_keeping.bb?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/oc_housekeeping_hg38.bw?raw=true
