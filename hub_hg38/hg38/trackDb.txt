@@ -11,26 +11,6 @@ graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38_oc_cnsv.bw?raw=true
 
-track oc_mean_logfc
-type bigWig
-shortLabel Open Chromatin Mouse logFC
-longLabel Mouse Open Chromatin logFC to Human
-visibility hide
-windowingFunction mean 
-autoScale off
-viewLimits -5:5
-graphType bar
-maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38_oc_mouse_logfc.bw?raw=true
-
-track oc_denovo
-type bigBed
-shortLabel de novo cCRE
-longLabel de novo cCRE predicted by Open Chromatin
-visibility dense
-color 4,101,130
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/hg38_denovo.bb?raw=true
-
 track oc_cnsv_housekeeping
 type bigBed
 shortLabel OC Cnsv House Keeping
