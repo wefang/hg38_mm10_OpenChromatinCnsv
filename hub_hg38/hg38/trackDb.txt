@@ -15,6 +15,11 @@ track oc_cnsv_housekeeping
 type bigBed
 shortLabel OC Cnsv House Keeping
 longLabel Open Chromatin Conserved House Keeping Elements
-visibility dense
-color 67,85,96
+visibility full
+color 5,55,66
+windowingFunction mean 
+autoScale off
+viewLimits 0.0:1.0
+graphType bar
+maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/oc_housekeeping_hg38.bw?raw=true
