@@ -35,7 +35,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CML_unknown_B%20cell%20lymphoma.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNZ_adult_naive%20thymus-derived%20CD4-positive,%20alpha-beta%20T%20cell.bw?raw=true
 
 track brain_embryonic_pred
 type bigWig
@@ -48,7 +48,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000COG_embryonic_brain.bw?raw=true
 
 track cerebellum_adult_pred
 type bigWig
@@ -74,7 +74,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR775YJL_embryonic_embryonic%20facial%20prominence.bw?raw=true
 
 track heart_adult_pred
 type bigWig
@@ -87,7 +87,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNE_adult_heart.bw?raw=true
 
 track heart_embryonic_pred
 type bigWig
@@ -100,7 +100,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR749ILN_embryonic_heart.bw?raw=true
 
 track limb_embryonic_pred
 type bigWig
@@ -113,7 +113,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR636NXY_embryonic_limb.bw?raw=true
 
 track liver_embryonic_pred
 type bigWig
@@ -126,7 +126,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNJ_embryonic_liver.bw?raw=true
 
 track lung_embryonic_pred
 type bigWig
@@ -139,7 +139,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR742DUR_embryonic_lung.bw?raw=true
 
 track retina_embryonic_pred
 type bigWig
@@ -152,7 +152,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR488VEQ_embryonic_retina.bw?raw=true
 
 track spleen_adult_pred
 type bigWig
@@ -165,5 +165,5 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNY_adult_spleen.bw?raw=true
 
