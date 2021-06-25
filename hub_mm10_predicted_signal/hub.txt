@@ -1,0 +1,5 @@
+hub encode_dnase
+shortLabel selected predicted human ENCODE DNase-seq samples
+longLabel selected predicted human ENCODE DNase-seq samples
+genomesFile genomes.txt
+email wfang9@jh.edu

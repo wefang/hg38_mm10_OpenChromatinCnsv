@@ -61,7 +61,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF265EIS/@@download/ENCFF265EIS.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
 track embryonic_facial_prominence_embryonic_pred
 type bigWig
