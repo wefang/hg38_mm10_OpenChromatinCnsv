@@ -9,7 +9,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF079SPZ/@@download/ENCFF079SPZ.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMM_adult_B cell.bw?raw=true
 
 track fibroblast_of_lung_adult_pred
 type bigWig
@@ -22,7 +22,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF391SPW/@@download/ENCFF391SPW.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNA_adult_fibroblast%20of%20lung.bw?raw=true
 
 track naive_thymus-derived_cd4-positive,_alpha-beta_t_cell_adult_pred
 type bigWig
@@ -35,7 +35,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF835ODU/@@download/ENCFF835ODU.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CML_unknown_B%20cell%20lymphoma.bw?raw=true
 
 track brain_embryonic_pred
 type bigWig
@@ -48,7 +48,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF333MPS/@@download/ENCFF333MPS.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
 track cerebellum_adult_pred
 type bigWig
@@ -74,7 +74,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF249HFH/@@download/ENCFF249HFH.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
 track heart_adult_pred
 type bigWig
@@ -87,7 +87,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF773NKY/@@download/ENCFF773NKY.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
 track heart_embryonic_pred
 type bigWig
@@ -100,7 +100,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF071TLE/@@download/ENCFF071TLE.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
 track limb_embryonic_pred
 type bigWig
@@ -113,7 +113,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF802BPW/@@download/ENCFF802BPW.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
 track liver_embryonic_pred
 type bigWig
@@ -126,7 +126,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF323LVW/@@download/ENCFF323LVW.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
 track lung_embryonic_pred
 type bigWig
@@ -139,7 +139,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF043UNG/@@download/ENCFF043UNG.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
 track retina_embryonic_pred
 type bigWig
@@ -152,7 +152,7 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF865IOI/@@download/ENCFF865IOI.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
 track spleen_adult_pred
 type bigWig
@@ -165,5 +165,5 @@ autoScale off
 graphType bar
 viewLimits 0:2
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF348XBI/@@download/ENCFF348XBI.bigWig
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
