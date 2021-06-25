@@ -7,7 +7,7 @@ color 215,48,39
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMM_adult_B cell.bw?raw=true
 
@@ -20,7 +20,7 @@ color 26,152,80
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNA_adult_fibroblast%20of%20lung.bw?raw=true
 
@@ -33,7 +33,7 @@ color 244,109,67
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNZ_adult_naive%20thymus-derived%20CD4-positive,%20alpha-beta%20T%20cell.bw?raw=true
 
@@ -46,7 +46,7 @@ color 33,102,172
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000COG_embryonic_brain.bw?raw=true
 
@@ -59,7 +59,7 @@ color 146,197,222
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CMO_adult_cerebellum.bw?raw=true
 
@@ -72,7 +72,7 @@ color 140,81,10
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR775YJL_embryonic_embryonic%20facial%20prominence.bw?raw=true
 
@@ -85,7 +85,7 @@ color 118,42,131
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNE_adult_heart.bw?raw=true
 
@@ -98,7 +98,7 @@ color 153,112,171
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR749ILN_embryonic_heart.bw?raw=true
 
@@ -111,7 +111,7 @@ color 191,129,45
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR636NXY_embryonic_limb.bw?raw=true
 
@@ -124,7 +124,7 @@ color 253,174,97
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNJ_embryonic_liver.bw?raw=true
 
@@ -137,7 +137,7 @@ color 166,217,106
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR742DUR_embryonic_lung.bw?raw=true
 
@@ -150,7 +150,7 @@ color 116,173,209
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR488VEQ_embryonic_retina.bw?raw=true
 
@@ -163,7 +163,7 @@ color 254,224,144
 windowingFunction mean
 autoScale off
 graphType bar
-viewLimits 0:2
+viewLimits 0:500
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/predicted_tracks/pred_ENCSR000CNY_adult_spleen.bw?raw=true
 
