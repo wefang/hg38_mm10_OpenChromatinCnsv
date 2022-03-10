@@ -1,5 +1,0 @@
-hub encode_dnase
-shortLabel selected ENCODE DNase-seq samples
-longLabel selected ENCODE DNase-seq samples
-genomesFile genomes.txt
-email wfang9@jh.edu

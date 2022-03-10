@@ -1,7 +1,7 @@
-track forebrain_embryonic_h3k4me1
+track brain_embryonic_h3k4me1
 type bigWig
-shortLabel forebrain embryonic_h3k4me1
-longLabel forebrain embryonic_h3k4me1
+shortLabel brain embryonic H3K4me1
+longLabel brain embryonic_h3k4me1
 visibility full
 color 33,102,172
 windowingFunction mean
@@ -9,7 +9,7 @@ autoScale off
 graphType bar
 viewLimits 0:12
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF242BZD/@@download/ENCFF242BZD.bigWig
+bigDataUrl https://www.encodeproject.org/files/ENCFF302SHC/@@download/ENCFF302SHC.bigWig
 
 track lung_embryonic_h3k4me1
 type bigWig
@@ -22,7 +22,7 @@ autoScale off
 graphType bar
 viewLimits 0:12
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF840JNB/@@download/ENCFF840JNB.bigWig
+bigDataUrl https://www.encodeproject.org/files/ENCFF410WYL/@@download/ENCFF410WYL.bigWig
 
 track spleen_adult_h3k4me1
 type bigWig
@@ -35,5 +35,4 @@ autoScale off
 graphType bar
 viewLimits 0:12
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF949JQK/@@download/ENCFF949JQK.bigWig
-
+bigDataUrl https://www.encodeproject.org/files/ENCFF519SOV/@@download/ENCFF519SOV.bigWig
