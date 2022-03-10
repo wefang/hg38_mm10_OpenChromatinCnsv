@@ -1,0 +1,14 @@
+track brain_embryonic
+type bigWig
+shortLabel brain embryonic
+longLabel brain embryonic
+visibility full
+color 33,102,172
+windowingFunction mean
+autoScale off
+graphType bar
+viewLimits 0:2
+maxHeightPixels 50
+bigDataUrl https://www.encodeproject.org/files/ENCFF302SHC/@@download/ENCFF302SHC.bigWig
+
+
