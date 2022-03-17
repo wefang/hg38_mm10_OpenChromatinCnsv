@@ -35,4 +35,4 @@ autoScale off
 graphType bar
 viewLimits 0:12
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF381WIP/@@download/ENCFF381WIP.bigWig
+bigDataUrl https://www.encodeproject.org/files/ENCFF813NAU/@@download/ENCFF813NAU.bigWig
