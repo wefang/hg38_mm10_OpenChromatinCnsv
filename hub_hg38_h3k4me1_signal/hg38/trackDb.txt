@@ -22,7 +22,7 @@ autoScale off
 graphType bar
 viewLimits 0:12
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF410WYL/@@download/ENCFF410WYL.bigWig
+bigDataUrl https://www.encodeproject.org/files/ENCFF991AHY/@@download/ENCFF991AHY.bigWig
 
 track spleen_adult_h3k4me1
 type bigWig
