@@ -9,7 +9,7 @@ autoScale off
 graphType bar
 viewLimits 0:12
 maxHeightPixels 50
-bigDataUrl https://www.encodeproject.org/files/ENCFF302SHC/@@download/ENCFF302SHC.bigWig
+bigDataUrl https://www.encodeproject.org/files/ENCFF790BIY/@@download/ENCFF790BIY.bigWig
 
 track lung_embryonic_h3k4me1
 type bigWig
