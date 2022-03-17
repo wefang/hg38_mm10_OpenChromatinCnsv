@@ -37,3 +37,15 @@ viewLimits 0:12
 maxHeightPixels 50
 bigDataUrl https://www.encodeproject.org/files/ENCFF949JQK/@@download/ENCFF949JQK.bigWig
 
+track embryonic_facial_prominence_embryonic_h3k4me1
+type bigWig
+shortLabel embryonic facial prominence embryonic_h3k4me1
+longLabel embryonic facial prominence embryonic_h3k4me1
+visibility full
+color 140,81,10
+windowingFunction mean
+autoScale off
+graphType bar
+viewLimits 0:12
+maxHeightPixels 50
+bigDataUrl https://www.encodeproject.org/files/ENCFF691CKO/@@download/ENCFF691CKO.bigWig
