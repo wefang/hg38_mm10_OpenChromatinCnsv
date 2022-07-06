@@ -1,5 +1,5 @@
-hub funcode_score
-shortLabel FUNCODE score
-longLabel FUNCODE score
+hub GRCh38 funcode_score
+shortLabel hg38 FUNCODE score
+longLabel hg38 FUNCODE score
 genomesFile genomes.txt
 email wfang9@jh.edu
