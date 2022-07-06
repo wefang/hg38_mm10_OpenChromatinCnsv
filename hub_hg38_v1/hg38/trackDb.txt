@@ -3,7 +3,7 @@ type bigWig
 shortLabel CACO_V score
 longLabel GRCh38 Chromatin accessibility conservation score
 visibility full
-color 191,176,81
+color 230,97,1
 windowingFunction mean 
 autoScale off
 viewLimits -0.5:0.8
@@ -16,7 +16,7 @@ type bigWig
 shortLabel CACO_B score
 longLabel GRCh38 Chromatin accessibility conservation score
 visibility full
-color 5,55,66
+color 94,60,153
 windowingFunction mean 
 autoScale off
 viewLimits 0:1.0
@@ -29,7 +29,7 @@ type bigWig
 shortLabel HICO_H3K4me1_V score
 longLabel GRCh38 Histone modification H3K4me1 conservation score
 visibility full
-color 191,176,81
+color 230,97,1
 windowingFunction mean 
 autoScale off
 viewLimits -0.5:0.8
@@ -42,7 +42,7 @@ type bigWig
 shortLabel HICO_H3K4me1_B score
 longLabel GRCh38 Histone modification H3K4me1 conservation score
 visibility full
-color 5,55,66
+color 94,60,153
 windowingFunction mean 
 autoScale off
 viewLimits 0:1.0
@@ -55,7 +55,7 @@ type bigWig
 shortLabel HICO_H3K4me3_V score
 longLabel GRCh38 Histone modification H3K4me3 conservation score
 visibility full
-color 191,176,81
+color 230,97,1
 windowingFunction mean 
 autoScale off
 viewLimits -0.5:0.8
@@ -68,7 +68,7 @@ type bigWig
 shortLabel HICO_H3K4me3_B score
 longLabel GRCh38 Histone modification H3K4me3 conservation score
 visibility full
-color 5,55,66
+color 94,60,153
 windowingFunction mean 
 autoScale off
 viewLimits 0:1.0
@@ -76,12 +76,12 @@ graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_H3K4me3_baseline.bw
 
-track hico)h3k27ac_v
+track hico_h3k27ac_v
 type bigWig
-shortLabel HICO)H3K27ac_V score
+shortLabel HICO_H3K27ac_V score
 longLabel GRCh38 Histone modification H3K27ac conservation score
 visibility full
-color 191,176,81
+color 230,97,1
 windowingFunction mean 
 autoScale off
 viewLimits -0.5:0.8
@@ -89,12 +89,12 @@ graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_H3K27ac_spearman.bw
 
-track hico)h3k27ac_b
+track hico_h3k27ac_b
 type bigWig
-shortLabel HICO)H3K27ac_B score
+shortLabel HICO_H3K27ac_B score
 longLabel GRCh38 Histone modification H3K27ac conservation score
 visibility full
-color 5,55,66
+color 94,60,153
 windowingFunction mean 
 autoScale off
 viewLimits 0:1.0
