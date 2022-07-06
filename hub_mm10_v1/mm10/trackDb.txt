@@ -1,25 +1,104 @@
-track oc_cnsv
+track caco_v
 type bigWig
-shortLabel Open Chromatin Cnsv
-longLabel Human Mouse Variable Conservation Score
+shortLabel CACO_V score
+longLabel mm10 Chromatin accessibility conservation score
 visibility full
-color 191,176,81
+color 230,97,1
 windowingFunction mean 
 autoScale off
 viewLimits -0.5:0.8
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/mm10_oc_cnsv.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/mm10_dnase_atac_spearman.bw
 
-track oc_cnsv_housekeeping
+track caco_b
 type bigWig
-shortLabel OC Cnsv House Keeping
-longLabel Open Chromatin Housekeeping Conservation Score
+shortLabel CACO_B score
+longLabel mm10 Chromatin accessibility conservation score
 visibility full
-color 5,55,66
+color 94,60,153
 windowingFunction mean 
 autoScale off
-viewLimits 0.0:1.0
+viewLimits 0:1.0
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/oc_housekeeping_mm10.bw?raw=true
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/mm10_dnase_atac_baseline.bw
+
+track hico_h3k4me1_v
+type bigWig
+shortLabel HICO_H3K4me1_V score
+longLabel mm10 Histone modification H3K4me1 conservation score
+visibility full
+color 230,97,1
+windowingFunction mean 
+autoScale off
+viewLimits -0.5:0.8
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/mm10_H3K4me1_spearman.bw
+
+track hico_h3k4me1_b
+type bigWig
+shortLabel HICO_H3K4me1_B score
+longLabel mm10 Histone modification H3K4me1 conservation score
+visibility full
+color 94,60,153
+windowingFunction mean 
+autoScale off
+viewLimits 0:1.0
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/mm10_H3K4me1_baseline.bw
+
+track hico_h3k4me3_v
+type bigWig
+shortLabel HICO_H3K4me3_V score
+longLabel mm10 Histone modification H3K4me3 conservation score
+visibility full
+color 230,97,1
+windowingFunction mean 
+autoScale off
+viewLimits -0.5:0.8
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/mm10_H3K4me3_spearman.bw
+
+track hico_h3k4me3_b
+type bigWig
+shortLabel HICO_H3K4me3_B score
+longLabel mm10 Histone modification H3K4me3 conservation score
+visibility full
+color 94,60,153
+windowingFunction mean 
+autoScale off
+viewLimits 0:1.0
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/mm10_H3K4me3_baseline.bw
+
+track hico_h3k27ac_v
+type bigWig
+shortLabel HICO_H3K27ac_V score
+longLabel mm10 Histone modification H3K27ac conservation score
+visibility full
+color 230,97,1
+windowingFunction mean 
+autoScale off
+viewLimits -0.5:0.8
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/mm10_H3K27ac_spearman.bw
+
+track hico_h3k27ac_b
+type bigWig
+shortLabel HICO_H3K27ac_B score
+longLabel mm10 Histone modification H3K27ac conservation score
+visibility full
+color 94,60,153
+windowingFunction mean 
+autoScale off
+viewLimits 0:1.0
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/mm10_H3K27ac_baseline.bw
+
