@@ -9,7 +9,7 @@ autoScale off
 viewLimits -0.5:0.8
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/data_v1/GRCh38_dnase_atac_spearman.bw
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_dnase_atac_spearman.bw
 
 track caco_b
 type bigWig
@@ -22,7 +22,7 @@ autoScale off
 viewLimits 0:1.0
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/data_v1/GRCh38_dnase_atac_baseline.bw
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_dnase_atac_baseline.bw
 
 track hico_h3k4me1_v
 type bigWig
@@ -35,7 +35,7 @@ autoScale off
 viewLimits -0.5:0.8
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/data_v1/GRCh38_H3K4me1_spearman.bw
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_H3K4me1_spearman.bw
 
 track hico_h3k4me1_b
 type bigWig
@@ -48,7 +48,7 @@ autoScale off
 viewLimits 0:1.0
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/data_v1/GRCh38_H3K4me1_baseline.bw
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_H3K4me1_baseline.bw
 
 track hico_h3k4me3_v
 type bigWig
@@ -61,7 +61,7 @@ autoScale off
 viewLimits -0.5:0.8
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/data_v1/GRCh38_H3K4me3_spearman.bw
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_H3K4me3_spearman.bw
 
 track hico_h3k4me3_b
 type bigWig
@@ -74,7 +74,7 @@ autoScale off
 viewLimits 0:1.0
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/data_v1/GRCh38_H3K4me3_baseline.bw
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_H3K4me3_baseline.bw
 
 track hico)h3k27ac_v
 type bigWig
@@ -87,7 +87,7 @@ autoScale off
 viewLimits -0.5:0.8
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/data_v1/GRCh38_H3K27ac_spearman.bw
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_H3K27ac_spearman.bw
 
 track hico)h3k27ac_b
 type bigWig
@@ -100,5 +100,5 @@ autoScale off
 viewLimits 0:1.0
 graphType bar
 maxHeightPixels 50
-bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/blob/main/data_v1/GRCh38_H3K27ac_baseline.bw
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v1/GRCh38_H3K27ac_baseline.bw
 
