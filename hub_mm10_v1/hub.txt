@@ -1,0 +1,5 @@
+hub oc_cnsv
+shortLabel Open Chromatin Cnsv
+longLabel Human Mouse Open Chromatin Cnsv
+genomesFile genomes.txt
+email wfang9@jh.edu
