@@ -6,7 +6,7 @@ visibility full
 color 230,97,1
 windowingFunction mean 
 autoScale off
-viewLimits -0.5:0.8
+viewLimits -0.2:0.6
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v2/cov_chromatin_accessibility_hg38.bw
@@ -19,7 +19,7 @@ visibility full
 color 230,97,1
 windowingFunction mean 
 autoScale off
-viewLimits -0.5:0.8
+viewLimits -0.2:0.6
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v2/cov_H3K27ac_hg38.bw
@@ -32,7 +32,7 @@ visibility full
 color 230,97,1
 windowingFunction mean 
 autoScale off
-viewLimits -0.5:0.8
+viewLimits -0.2:0.6
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v2/cov_H3K4me1_hg38.bw
@@ -45,7 +45,7 @@ visibility full
 color 230,97,1
 windowingFunction mean 
 autoScale off
-viewLimits -0.5:0.8
+viewLimits -0.2:0.6
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v2/cov_H3K4me3_hg38.bw
@@ -58,7 +58,7 @@ visibility full
 color 94,60,153
 windowingFunction mean 
 autoScale off
-viewLimits 0:1.0
+viewLimits 0:0.9
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v2/cob_chromatin_accessibility_hg38.bw
@@ -71,7 +71,7 @@ visibility full
 color 94,60,153
 windowingFunction mean 
 autoScale off
-viewLimits 0:1.0
+viewLimits 0:0.9
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v2/cob_H3K27ac_hg38.bw
@@ -84,7 +84,7 @@ visibility full
 color 94,60,153
 windowingFunction mean 
 autoScale off
-viewLimits 0:1.0
+viewLimits 0:0.9
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v2/cob_H3K4me1_hg38.bw
@@ -97,7 +97,7 @@ visibility full
 color 94,60,153
 windowingFunction mean 
 autoScale off
-viewLimits 0:1.0
+viewLimits 0:0.9
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_v2/cob_H3K4me3_hg38.bw
