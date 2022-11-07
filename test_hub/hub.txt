@@ -1,0 +1,9 @@
+hub FUNCODE scores
+
+shortLabel FUNCODE scores
+
+longLabel FUNCODE scores
+
+genomesFile genomes.txt
+
+email wfang9@jh.edu
