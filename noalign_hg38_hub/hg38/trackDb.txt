@@ -6,7 +6,7 @@ visibility full
 color 102,166,30
 windowingFunction mean 
 autoScale off
-viewLimits -0.2:0.6
+viewLimits -0.2:0.7
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_noalign/noalign_cov_chromatin_accessibility_hg38.bw
@@ -19,7 +19,7 @@ visibility full
 color 102,166,30
 windowingFunction mean 
 autoScale off
-viewLimits -0.2:0.6
+viewLimits -0.2:0.7
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_noalign/noalign_cov_H3K27ac_hg38.bw
@@ -32,7 +32,7 @@ visibility full
 color 102,166,30
 windowingFunction mean 
 autoScale off
-viewLimits -0.2:0.6
+viewLimits -0.2:0.7
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_noalign/noalign_cov_H3K4me1_hg38.bw
@@ -45,7 +45,7 @@ visibility full
 color 102,166,30
 windowingFunction mean 
 autoScale off
-viewLimits -0.2:0.6
+viewLimits -0.2:0.7
 graphType bar
 maxHeightPixels 50
 bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_noalign/noalign_cov_H3K4me3_hg38.bw
