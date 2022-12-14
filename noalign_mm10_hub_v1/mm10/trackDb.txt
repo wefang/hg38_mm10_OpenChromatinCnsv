@@ -1,0 +1,52 @@
+track noalign_cov_chromatin_accessibility_mm10
+type bigWig
+shortLabel noalign_cov_chromatin_accessibility_mm10 score
+longLabel mm10 NA conservation score
+visibility full
+color 102,166,30
+windowingFunction mean 
+autoScale off
+viewLimits -0.2:0.6
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_noalign/noalign_cov_chromatin_accessibility_mm10.bw
+
+track noalign_cov_h3k27ac_mm10
+type bigWig
+shortLabel noalign_cov_H3K27ac_mm10 score
+longLabel mm10 H3K27ac conservation score
+visibility full
+color 102,166,30
+windowingFunction mean 
+autoScale off
+viewLimits -0.2:0.6
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_noalign/noalign_cov_H3K27ac_mm10.bw
+
+track noalign_cov_h3k4me1_mm10
+type bigWig
+shortLabel noalign_cov_H3K4me1_mm10 score
+longLabel mm10 H3K4me1 conservation score
+visibility full
+color 102,166,30
+windowingFunction mean 
+autoScale off
+viewLimits -0.2:0.6
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_noalign/noalign_cov_H3K4me1_mm10.bw
+
+track noalign_cov_h3k4me3_mm10
+type bigWig
+shortLabel noalign_cov_H3K4me3_mm10 score
+longLabel mm10 H3K4me3 conservation score
+visibility full
+color 102,166,30
+windowingFunction mean 
+autoScale off
+viewLimits -0.2:0.6
+graphType bar
+maxHeightPixels 50
+bigDataUrl https://github.com/wefang/hg38_mm10_OpenChromatinCnsv/raw/main/data_noalign/noalign_cov_H3K4me3_mm10.bw
+
